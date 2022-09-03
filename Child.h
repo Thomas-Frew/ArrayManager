@@ -12,6 +12,5 @@ class Child {
         // Constructors
         Child();
         Child(string name);
-        Child operator=(Child child);
 };
 #endif // CHILD_H
